@@ -1,1 +1,1 @@
-/home/gorky/dotfiles-and-bin/linux-general/.vim/bundle/vim-airline-themes/autoload/airline/themes/goodwolf.vim
+/home/gorky/dotfiles-and-bin/main/.vim/bundle/vim-airline-themes/autoload/airline/themes/goodwolf.vim
